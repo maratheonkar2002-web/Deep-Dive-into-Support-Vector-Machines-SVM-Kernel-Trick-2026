@@ -54,6 +54,8 @@ K(x, y) = tanh(α x · y + c)
 
 The project includes visualizations showing **how different kernels transform the dataset**.  
 <img width="559" height="433" alt="rbf" src="https://github.com/user-attachments/assets/88534063-ed80-44f2-941d-447d5102dff2" />
+<img width="559" height="433" alt="rbf" src="https://github.com/user-attachments/assets/f95ae9b7-b4bd-4ecd-9ff8-9994556535a4" />
+
 
 
 
