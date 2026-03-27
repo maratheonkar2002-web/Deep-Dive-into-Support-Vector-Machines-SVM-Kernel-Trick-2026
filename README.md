@@ -90,7 +90,7 @@ A live demo of this project is available at:
 ## 📬 Contact
 
 - **GitHub:** [maratheonkar2002-web](https://github.com/maratheonkar2002-web)  
-- **Email:** your-email@example.com  
+- **Email:** maratheonkar2002@gmail.com  
 
 ---
 
