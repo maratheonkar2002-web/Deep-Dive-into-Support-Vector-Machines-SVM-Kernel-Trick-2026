@@ -100,7 +100,7 @@ webpage-of-SVM/
 
 ## 📬 Contact
 
-- **GitHub:** [maratheonkar2002-web](https://github.com/maratheonkar2002-web)  
+- **GitHub:** [maratheonkar2002-web](https://github.com/maratheonkar2002-web/Deep-Dive-into-Support-Vector-Machines-SVM-Kernel-Trick-2026)  
 - **Email:** maratheonkar2002@gmail.com  
 
 ---
