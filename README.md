@@ -58,7 +58,18 @@ The project includes visualizations showing **how different kernels transform th
 ---
 
 ## 📁 Repository Structure
-
+webpage-of-SVM/
+├─ index.html
+├─ style.css
+├─ script.js
+├─ notebook/
+│ └─ svm_kernel_analysis.ipynb
+├─ src/
+│ └─ React components
+├─ assets/
+│ └─ images/screenshots
+├─ package.json
+└─ README.md
 
 
 ---
