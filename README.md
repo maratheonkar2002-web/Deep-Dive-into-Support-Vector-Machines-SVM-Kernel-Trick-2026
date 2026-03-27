@@ -23,19 +23,19 @@ This project demonstrates:
 
 **Linear Kernel:**  
 
-Best for linearly separable data.
+K(x, y) = x · y
 
 **Polynomial Kernel:**  
 
-Useful for feature interactions.
+K(x, y) = (x · y + c)^d
 
 **RBF Kernel:**  
 
-Great for complex non-linear datasets.
+K(x, y) = exp(-γ ||x - y||^2)
 
 **Sigmoid Kernel:**  
 
-Similar to neural network activations.
+K(x, y) = tanh(α x · y + c)
 
 ---
 
