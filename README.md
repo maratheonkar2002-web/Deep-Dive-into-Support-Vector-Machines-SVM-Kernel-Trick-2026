@@ -63,12 +63,7 @@ The project includes visualizations showing **how different kernels transform th
 
 ---
 
-## 🔥 Live Demo
 
-A live demo of this project is available at:  
-[Your Live Website Link Here](https://example.com)
-
----
 
 ## 🛠️ Technologies Used
 
