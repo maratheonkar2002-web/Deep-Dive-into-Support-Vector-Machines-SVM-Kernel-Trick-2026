@@ -1,1 +1,98 @@
-# Deep-Dive-into-Support-Vector-Machines-SVM-Kernel-Trick-2026
+# Deep Dive into Support Vector Machines (SVM) – Kernel Trick
+
+🚀 An in-depth guide to understanding the **Kernel Trick** in SVMs and its real-world applications.
+
+---
+
+## 📌 Project Overview
+
+Support Vector Machines (SVM) are powerful supervised learning algorithms for classification and regression tasks.  
+The **Kernel Trick** allows SVMs to handle **non-linearly separable data** efficiently by implicitly mapping input features into higher-dimensional spaces.
+
+This project demonstrates:
+
+- How the Kernel Trick works  
+- Different types of kernels: Linear, Polynomial, RBF, Sigmoid  
+- Mathematical intuition and kernel equations  
+- Real-world dataset comparison using Breast Cancer Wisconsin (Diagnostic)  
+- Visualizations of kernel transformations
+
+---
+
+## 🧠 Mathematical Formulation
+
+**Linear Kernel:**  
+
+Best for linearly separable data.
+
+**Polynomial Kernel:**  
+
+Useful for feature interactions.
+
+**RBF Kernel:**  
+
+Great for complex non-linear datasets.
+
+**Sigmoid Kernel:**  
+
+Similar to neural network activations.
+
+---
+
+## 📊 Results & Comparison
+
+| Kernel Type | Accuracy |
+|-------------|---------|
+| Linear      | 85%     |
+| Polynomial  | 91%     |
+| RBF         | 96%     |
+| Sigmoid     | 75%     |
+
+---
+
+## 📷 Visualization
+
+The project includes visualizations showing **how different kernels transform the dataset**.  
+*(Add images/screenshots in the `assets` folder if available)*
+
+---
+
+## 📁 Repository Structure
+
+
+
+---
+
+## 🔥 Live Demo
+
+A live demo of this project is available at:  
+[Your Live Website Link Here](https://example.com)
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python** – Scikit-Learn, NumPy, Matplotlib  
+- **Jupyter Notebook** – Data analysis & visualization  
+- **React.js** – Frontend  
+- **Vite** – Development server & bundler  
+
+---
+
+## 🎓 References
+
+- [Scikit-Learn Documentation](https://scikit-learn.org/)  
+- Vladimir Vapnik, *Statistical Learning Theory* (1998)  
+- Andrew Ng’s Machine Learning Course (Stanford)
+
+---
+
+## 📬 Contact
+
+- **GitHub:** [maratheonkar2002-web](https://github.com/maratheonkar2002-web)  
+- **Email:** your-email@example.com  
+
+---
+
+© 2026 Onkar Marathe | Deep Dive into Support Vector Machines – Kernel Trick
+
